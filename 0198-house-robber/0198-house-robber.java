@@ -2,13 +2,18 @@ class Solution {
     public int rob(int[] nums) {
         if (nums.length == 0)
             return 0;
-        int prev1 = 0;
-        int prev2 = 0;
+        int first = 0;
+        int sec = 0;
         for (int num : nums) {
-            int tmp = prev1;
-            prev1 = Math.max(prev2 + num, prev1);
-            prev2 = tmp;
+            int temp = first;
+            first = Math.max(sec + num, first);
+            sec = temp;
         }
-        return prev1;
+        //1 , 3 , 5 , 7, 2 
+        //tmp = 1
+        //prev1 =2, 1.....
+        //prev2 = 1
+
+        return first;
     }
 }
