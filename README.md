@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/JustinhSE/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/JustinhSE/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Binary Search
@@ -67,6 +68,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/JustinhSE/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
