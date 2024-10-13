@@ -22,8 +22,6 @@ class Solution {
             p = lists[i];
             ptrs.add(p);
         } 
-        
-        
         while(true){
             int min = Integer.MAX_VALUE;
             int index = 0;
