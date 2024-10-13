@@ -16,4 +16,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JustinhSE/Leetcode/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/JustinhSE/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/JustinhSE/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
