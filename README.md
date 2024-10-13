@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JustinhSE/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,4 +50,24 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JustinhSE/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
