@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JustinhSE/Leetcode/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/JustinhSE/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
@@ -54,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JustinhSE/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
