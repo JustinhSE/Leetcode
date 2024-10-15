@@ -33,7 +33,7 @@ class Solution {
                 heap.offer(new int[] { weight + neighbor[1], neighbor[0] });
             }
         }
-
+        System.gc();
         if (seen.size() == n) {
             return time;
         }
