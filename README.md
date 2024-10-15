@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/JustinhSE/Leetcode/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/JustinhSE/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
+| [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,4 +81,12 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/JustinhSE/Leetcode/tree/master/0273-integer-to-english-words) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
