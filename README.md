@@ -16,6 +16,7 @@
 | [0125-valid-palindrome](https://github.com/JustinhSE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JustinhSE/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/JustinhSE/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JustinhSE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -141,4 +143,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
