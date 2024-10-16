@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/JustinhSE/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustinhSE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/JustinhSE/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
@@ -97,6 +98,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
@@ -106,12 +108,14 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JustinhSE/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0744-network-delay-time](https://github.com/JustinhSE/Leetcode/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
 | [0744-network-delay-time](https://github.com/JustinhSE/Leetcode/tree/master/0744-network-delay-time) |
 ## Graph
 |  |
@@ -144,4 +148,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
