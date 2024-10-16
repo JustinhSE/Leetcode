@@ -36,10 +36,6 @@ class Solution {
             }
         }
 
-        if (seen.size() == n) {
-            return time;
-        }
-
-        return -1;
+        return seen.size() == n ? time : -1;
     }
 }
