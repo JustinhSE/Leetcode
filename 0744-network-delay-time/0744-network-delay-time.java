@@ -6,17 +6,19 @@ class Solution {
         for (int[] time : times) {
             graph.computeIfAbsent(time[0], key -> new ArrayList<>()).add(new int[] { time[1], time[2] });
         }
+        //node, node weight
+        // (node, weight)
 
         // Priority queue to store (weight, node) pairs
-        PriorityQueue<int[]> heap = new PriorityQueue<>((a, b) -> a[0] - b[0]);
-        heap.offer(new int[] { 0, k });
+        PriorityQueue<int[]> heap = new PriorityQueue<>((a, b) -> a[1] - b[1]); 
+        heap.add(new int[] { k,0 }); //node weight 
 
         Set<Integer> seen = new HashSet<>();
         int time = 0;
 
         while (!heap.isEmpty()) {
             int[] current = heap.poll();
-            int weight = current[0], node = current[1];
+            int node = current[0], weight = current[1];
 
             if (seen.contains(node)) {
                 continue;
@@ -30,10 +32,10 @@ class Solution {
             }
 
             for (int[] neighbor : graph.get(node)) {
-                heap.offer(new int[] { weight + neighbor[1], neighbor[0] });
+                heap.add(new int[] {  neighbor[0], weight + neighbor[1] });
             }
         }
-        System.gc();
+
         if (seen.size() == n) {
             return time;
         }
