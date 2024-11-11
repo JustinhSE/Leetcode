@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JustinhSE/Leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/JustinhSE/Leetcode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustinhSE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
@@ -156,4 +157,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/JustinhSE/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/JustinhSE/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
