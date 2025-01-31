@@ -32,6 +32,7 @@
 | [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/JustinhSE/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/JustinhSE/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JustinhSE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JustinhSE/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/JustinhSE/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/JustinhSE/Leetcode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
