@@ -17,6 +17,7 @@
 | [0242-valid-anagram](https://github.com/JustinhSE/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/JustinhSE/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 ## Trie
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JustinhSE/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0744-network-delay-time](https://github.com/JustinhSE/Leetcode/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
@@ -74,6 +76,7 @@
 | [0242-valid-anagram](https://github.com/JustinhSE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
@@ -97,6 +100,7 @@
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JustinhSE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
+| [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Recursion
 |  |
@@ -161,6 +165,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [1708-design-parking-system](https://github.com/JustinhSE/Leetcode/tree/master/1708-design-parking-system) |
 ## Union Find
 |  |
@@ -174,6 +179,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Combinatorics
 |  |
