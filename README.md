@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
+| [1708-design-parking-system](https://github.com/JustinhSE/Leetcode/tree/master/1708-design-parking-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JustinhSE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Depth-First Search
@@ -160,6 +161,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
+| [1708-design-parking-system](https://github.com/JustinhSE/Leetcode/tree/master/1708-design-parking-system) |
 ## Union Find
 |  |
 | ------- |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JustinhSE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/JustinhSE/Leetcode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
