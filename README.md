@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/JustinhSE/Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/JustinhSE/Leetcode/tree/master/0046-permutations) |
+| [0088-merge-sorted-array](https://github.com/JustinhSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustinhSE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JustinhSE/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/JustinhSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JustinhSE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/JustinhSE/Leetcode/tree/master/0283-move-zeroes) |
 ## String Matching
@@ -102,6 +104,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/JustinhSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JustinhSE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
