@@ -17,6 +17,7 @@
 | [0242-valid-anagram](https://github.com/JustinhSE/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/JustinhSE/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/JustinhSE/Leetcode/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 ## Trie
 |  |
@@ -52,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/JustinhSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JustinhSE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/JustinhSE/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/JustinhSE/Leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustinhSE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/JustinhSE/Leetcode/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
 | ------- |
