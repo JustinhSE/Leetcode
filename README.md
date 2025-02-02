@@ -39,6 +39,7 @@
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JustinhSE/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
+| [0898-transpose-matrix](https://github.com/JustinhSE/Leetcode/tree/master/0898-transpose-matrix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JustinhSE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
@@ -129,10 +130,12 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
+| [0898-transpose-matrix](https://github.com/JustinhSE/Leetcode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
+| [0898-transpose-matrix](https://github.com/JustinhSE/Leetcode/tree/master/0898-transpose-matrix) |
 | [1708-design-parking-system](https://github.com/JustinhSE/Leetcode/tree/master/1708-design-parking-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JustinhSE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
