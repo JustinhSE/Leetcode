@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JustinhSE/Leetcode/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/JustinhSE/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JustinhSE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JustinhSE/Leetcode/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/JustinhSE/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JustinhSE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JustinhSE/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JustinhSE/Leetcode/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/JustinhSE/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JustinhSE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JustinhSE/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
