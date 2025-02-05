@@ -147,6 +147,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/JustinhSE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JustinhSE/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/JustinhSE/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0744-network-delay-time](https://github.com/JustinhSE/Leetcode/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/JustinhSE/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -157,6 +158,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JustinhSE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/JustinhSE/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0744-network-delay-time](https://github.com/JustinhSE/Leetcode/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/JustinhSE/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -181,11 +183,13 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JustinhSE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JustinhSE/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/JustinhSE/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JustinhSE/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/JustinhSE/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -193,6 +197,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JustinhSE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JustinhSE/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/JustinhSE/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JustinhSE/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Counting
 |  |
