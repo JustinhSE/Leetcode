@@ -1,10 +1,7 @@
 ## Current Leetcode Journey 🚀💻
 
 
-<img
-  src="https://leetcode.lovinsonleetcode.workers.dev/justinhcode?ext=all&theme=dark"
-  class="image"
-/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/justinhcode?theme=dark&font=Noto%20Sans%20Runic)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
