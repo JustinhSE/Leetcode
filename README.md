@@ -28,6 +28,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JustinhSE/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JustinhSE/Leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/JustinhSE/Leetcode/tree/master/0046-permutations) |
+| [0074-search-a-2d-matrix](https://github.com/JustinhSE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/JustinhSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustinhSE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
@@ -101,6 +102,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/JustinhSE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -125,6 +127,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/JustinhSE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/JustinhSE/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
 | [0898-transpose-matrix](https://github.com/JustinhSE/Leetcode/tree/master/0898-transpose-matrix) |
