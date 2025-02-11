@@ -6,46 +6,44 @@
  *     TreeNode right;
  *     TreeNode(int x) { val = x; }
  * }
- */
+*/
 class Solution {
+    private Map<TreeNode, Integer> entry = new HashMap<>();
+    private Map<TreeNode, Integer> exit = new HashMap<>();
+    private Map<TreeNode, TreeNode> parent = new HashMap<>();
+    private int time = 0;
+
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-           // Store parent pointers
-        Map<TreeNode, TreeNode> parent = new HashMap<>();
-        
-        // Store visited nodes
-        Set<TreeNode> visited = new HashSet<>();
-        
-        // DFS to store all parent relationships
-        Stack<TreeNode> stack = new Stack<>();
-        parent.put(root, null);
-        stack.push(root);
-        
-        // Process until we find both p and q
-        while (!parent.containsKey(p) || !parent.containsKey(q)) {
-            TreeNode node = stack.pop();
-            
-            if (node.left != null) {
-                parent.put(node.left, node);
-                stack.push(node.left);
-            }
-            if (node.right != null) {
-                parent.put(node.right, node);
-                stack.push(node.right);
-            }
-        }
-        
-        // Move up from p and mark all ancestors
-        while (p != null) {
-            visited.add(p);
+        // Step 1: Preprocessing with DFS to calculate entry and exit times
+        dfs(root, null);
+
+        // Step 2: Find LCA using ancestor checks
+        while (!isAncestor(p, q)) {
             p = parent.get(p);
         }
-        
-        // Move up from q until we find first common ancestor
-        while (!visited.contains(q)) {
-            q = parent.get(q);
-        }
-        
-        return q;
+        return p;
     }
-    
+
+    private void dfs(TreeNode node, TreeNode par) {
+        if (node == null) return;
+
+        // Record entry time
+        time++;
+        entry.put(node, time);
+
+        // Record parent of the current node
+        parent.put(node, par);
+
+        // Recur for left and right children
+        dfs(node.left, node);
+        dfs(node.right, node);
+
+        // Record exit time
+        time++;
+        exit.put(node, time);
+    }
+
+    private boolean isAncestor(TreeNode u, TreeNode v) {
+        return entry.get(u) <= entry.get(v) && exit.get(v) <= exit.get(u);
+    }
 }
