@@ -2,9 +2,7 @@ class Solution {
     int[] memo;
     public int fib(int n) {
         memo = new int[n + 1];
-        for (int i = 0; i <= n; i++) {
-            memo[i] = -1; 
-        }
+        Arrays.fill(memo,-1);
         return fib1(n,n-1);
     }
 
