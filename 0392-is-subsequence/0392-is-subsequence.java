@@ -1,16 +1,9 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        if(t.length() < s.length()){return false;}
-        if(s.length() == 0) {return true;}
-        int p = 0;
-        for(int i = 0; i < t.length();i++){
-            if(t.charAt(i) == s.charAt(p)){
-                p++;
-            }
-            if(p == s.length()){
-                return true;
-            }
-        }
-        return p == s.length();
+        if(s.isEmpty()){return true;}
+        int index = t.indexOf(s.charAt(0)); 
+        if(s.length() == 0 || (t.length() == index-1  && s.length() == 1)){ return true; }
+        if(s.length() > t.length() || index == -1 ){ return false; }
+        return isSubsequence(s.substring(1) , t.substring(index + 1)); 
     }
 }
