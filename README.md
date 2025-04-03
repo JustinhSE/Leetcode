@@ -38,6 +38,7 @@
 | [0283-move-zeroes](https://github.com/JustinhSE/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
 | [0898-transpose-matrix](https://github.com/JustinhSE/Leetcode/tree/master/0898-transpose-matrix) |
+| [1127-last-stone-weight](https://github.com/JustinhSE/Leetcode/tree/master/1127-last-stone-weight) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JustinhSE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
@@ -76,6 +77,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/JustinhSE/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0744-network-delay-time](https://github.com/JustinhSE/Leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
+| [1127-last-stone-weight](https://github.com/JustinhSE/Leetcode/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
