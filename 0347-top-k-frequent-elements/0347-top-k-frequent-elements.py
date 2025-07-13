@@ -3,7 +3,7 @@ class Solution:
         freq = defaultdict(int)
         for item in nums:
             freq[item] += 1
-        top_k = sorted(freq.items(), key=lambda x: x[1])[-k:] 
+        top_k = sorted(freq.items(), key=lambda x: x[1], reverse=True)[:k]
         return [key for key, value in top_k]   
 
         
