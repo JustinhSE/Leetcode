@@ -38,6 +38,7 @@
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JustinhSE/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/JustinhSE/Leetcode/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/JustinhSE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0898-transpose-matrix](https://github.com/JustinhSE/Leetcode/tree/master/0898-transpose-matrix) |
 | [1127-last-stone-weight](https://github.com/JustinhSE/Leetcode/tree/master/1127-last-stone-weight) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JustinhSE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -72,10 +73,12 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JustinhSE/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JustinhSE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JustinhSE/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/JustinhSE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/JustinhSE/Leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/JustinhSE/Leetcode/tree/master/1127-last-stone-weight) |
@@ -92,6 +95,7 @@
 | [0217-contains-duplicate](https://github.com/JustinhSE/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JustinhSE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JustinhSE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -122,6 +126,7 @@
 | [0217-contains-duplicate](https://github.com/JustinhSE/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JustinhSE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustinhSE/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JustinhSE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Recursion
@@ -217,6 +222,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JustinhSE/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JustinhSE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [1708-design-parking-system](https://github.com/JustinhSE/Leetcode/tree/master/1708-design-parking-system) |
@@ -246,4 +252,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/JustinhSE/Leetcode/tree/master/1013-fibonacci-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JustinhSE/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JustinhSE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
