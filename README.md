@@ -43,6 +43,7 @@
 | [1127-last-stone-weight](https://github.com/JustinhSE/Leetcode/tree/master/1127-last-stone-weight) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JustinhSE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/JustinhSE/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/JustinhSE/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/JustinhSE/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/JustinhSE/Leetcode/tree/master/0392-is-subsequence) |
+| [2442-number-of-arithmetic-triplets](https://github.com/JustinhSE/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## String Matching
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0383-ransom-note](https://github.com/JustinhSE/Leetcode/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/JustinhSE/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Math
 |  |
 | ------- |
@@ -260,4 +263,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JustinhSE/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/JustinhSE/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
