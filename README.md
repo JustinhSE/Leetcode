@@ -44,6 +44,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/JustinhSE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JustinhSE/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JustinhSE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/JustinhSE/Leetcode/tree/master/1127-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JustinhSE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0778-reorganize-string](https://github.com/JustinhSE/Leetcode/tree/master/0778-reorganize-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/JustinhSE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JustinhSE/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JustinhSE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/JustinhSE/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JustinhSE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
