@@ -12,9 +12,7 @@ class Solution:
             map = defaultdict(int)
             for n in lst:
                 map[n] += 1
-            print(map)
             top_x = sorted(map.items(), key = lambda x: (x[1], x[0]), reverse = True)[:x]
-            print(top_x)
             keys = [k for k, v in top_x]
             answer = filter(lambda num: num in keys, lst)
             result.append(sum(answer))
