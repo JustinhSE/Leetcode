@@ -14,7 +14,7 @@ class Solution:
                 map[n] += 1
             top_x = sorted(map.items(), key = lambda x: (x[1], x[0]), reverse = True)[:x]
             keys = [k for k, v in top_x]
-            answer = filter(lambda num: num in keys, lst)
+            answer = filter(lambda k: k in keys, lst)
             result.append(sum(answer))
         return result
 
