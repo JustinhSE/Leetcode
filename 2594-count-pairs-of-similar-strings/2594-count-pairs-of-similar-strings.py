@@ -1,6 +1,5 @@
 class Solution:
     def similarPairs(self, words: List[str]) -> int:
-        # sorting based length 
         # comparing each with the next highest double for loop nest 
         pairs = 0
         for i in range(len(words)):
