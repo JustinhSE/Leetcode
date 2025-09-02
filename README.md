@@ -10,6 +10,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JustinhSE/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JustinhSE/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/JustinhSE/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JustinhSE/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/JustinhSE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JustinhSE/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -202,6 +203,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JustinhSE/Leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustinhSE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/JustinhSE/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/JustinhSE/Leetcode/tree/master/1013-fibonacci-number) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JustinhSE/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/JustinhSE/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/JustinhSE/Leetcode/tree/master/0046-permutations) |
 ## Greedy
 |  |
